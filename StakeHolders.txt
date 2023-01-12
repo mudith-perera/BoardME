@@ -1,0 +1,12 @@
+Student
+    firstname
+    lastname
+    nic
+    schoolUniversity
+    address
+    phone
+    email
+    guadianName
+    guadianPhone
+    password
+
